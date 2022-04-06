@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Developer contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring other Web, ML & IoT technologies.
 
