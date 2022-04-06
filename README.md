@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring other web, ML & IoT technologies.
+- :seedling: Exploring other Web, ML & IoT technologies.
 
 - :zap: In my free time, I study online courses and read tech articles.
 
